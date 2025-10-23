@@ -1,0 +1,909 @@
+{
+  "session_end": "2025-10-08T13:59:18.393277",
+  "total_objects": 2940,
+  "passed_objects": 162,
+  "failed_objects": 2778,
+  "quality_rate": 5.510204081632653,
+  "production_log": [
+    {
+      "timestamp": "2025-10-08T13:59:17.434478",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 10.588235294117647,
+      "area_px": 2913.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.463107",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1846.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.463311",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.029411764705882,
+      "height_cm": 12.0,
+      "area_px": 1650.0,
+      "reason": "Size out of range: 1650px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.463476",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 10.588235294117647,
+      "area_px": 2724.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.495425",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1855.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.495643",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.029411764705882,
+      "height_cm": 12.0,
+      "area_px": 1657.0,
+      "reason": "Size out of range: 1657px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.495845",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 10.558823529411764,
+      "area_px": 2949.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.530827",
+      "shape": "Triangle",
+      "status": "PASS",
+      "width_cm": 5.323529411764706,
+      "height_cm": 12.0,
+      "area_px": 2980.0,
+      "reason": ""
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.531044",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.029411764705882,
+      "height_cm": 12.0,
+      "area_px": 1655.0,
+      "reason": "Size out of range: 1655px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.531221",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 10.529411764705882,
+      "area_px": 2957.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.559917",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1824.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.560080",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7941176470588236,
+      "height_cm": 9.970588235294118,
+      "area_px": 1088.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.560226",
+      "shape": "Hexagon",
+      "status": "FAIL",
+      "width_cm": 4.382352941176471,
+      "height_cm": 4.470588235294118,
+      "area_px": 1161.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.560449",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 10.441176470588236,
+      "area_px": 2780.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.589696",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7941176470588236,
+      "height_cm": 10.0,
+      "area_px": 1088.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.589875",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 5.323529411764706,
+      "height_cm": 12.029411764705882,
+      "area_px": 3164.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.590048",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 10.176470588235293,
+      "area_px": 2892.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.639939",
+      "shape": "Hexagon",
+      "status": "FAIL",
+      "width_cm": 3.235294117647059,
+      "height_cm": 6.38235294117647,
+      "area_px": 1304.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.640206",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7941176470588236,
+      "height_cm": 9.970588235294118,
+      "area_px": 1086.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.640426",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 9.970588235294118,
+      "area_px": 2888.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.673805",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1846.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.673984",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7941176470588236,
+      "height_cm": 9.970588235294118,
+      "area_px": 1087.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.674113",
+      "shape": "Hexagon",
+      "status": "FAIL",
+      "width_cm": 4.352941176470589,
+      "height_cm": 4.5,
+      "area_px": 1155.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.674265",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 9.705882352941176,
+      "area_px": 2585.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.703831",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1855.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.704094",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7941176470588236,
+      "height_cm": 10.0,
+      "area_px": 1094.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.704336",
+      "shape": "Hexagon",
+      "status": "FAIL",
+      "width_cm": 4.382352941176471,
+      "height_cm": 4.5,
+      "area_px": 1149.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.704586",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 9.352941176470589,
+      "area_px": 2587.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.733095",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1836.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.733255",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 2.588235294117647,
+      "height_cm": 5.911764705882353,
+      "area_px": 1127.0,
+      "reason": "Size out of range: 1127px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.733449",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7941176470588236,
+      "height_cm": 10.0,
+      "area_px": 1087.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.733635",
+      "shape": "Hexagon",
+      "status": "FAIL",
+      "width_cm": 4.352941176470589,
+      "height_cm": 4.5,
+      "area_px": 1150.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.733803",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 9.088235294117647,
+      "area_px": 2791.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.763868",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4705882352941178,
+      "height_cm": 8.147058823529411,
+      "area_px": 1848.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.764031",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 2.705882352941176,
+      "height_cm": 5.911764705882353,
+      "area_px": 1191.0,
+      "reason": "Size out of range: 1191px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.764252",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7941176470588236,
+      "height_cm": 10.0,
+      "area_px": 1084.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.764443",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.823529411764707,
+      "area_px": 2527.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.801700",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1838.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.801864",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 2.852941176470588,
+      "height_cm": 5.911764705882353,
+      "area_px": 1230.5,
+      "reason": "Size out of range: 1230px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.802002",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7941176470588236,
+      "height_cm": 10.0,
+      "area_px": 1093.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.802179",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.764705882352942,
+      "area_px": 2516.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.829773",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1818.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.830013",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 2.6470588235294117,
+      "height_cm": 5.882352941176471,
+      "area_px": 1220.0,
+      "reason": "Size out of range: 1220px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.830198",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.0,
+      "height_cm": 12.0,
+      "area_px": 1649.5,
+      "reason": "Size out of range: 1650px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.830373",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.617647058823529,
+      "area_px": 2505.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.861729",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1821.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.861926",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 3.0,
+      "height_cm": 5.882352941176471,
+      "area_px": 1281.0,
+      "reason": "Size out of range: 1281px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.862133",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.0,
+      "height_cm": 12.0,
+      "area_px": 1656.5,
+      "reason": "Size out of range: 1656px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.862304",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.5,
+      "area_px": 2256.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.895938",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1864.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.896128",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 3.0,
+      "height_cm": 5.852941176470589,
+      "area_px": 1308.0,
+      "reason": "Size out of range: 1308px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.896315",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.029411764705882,
+      "height_cm": 12.0,
+      "area_px": 1662.0,
+      "reason": "Size out of range: 1662px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.896483",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.441176470588236,
+      "area_px": 2483.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.928128",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 3.0294117647058822,
+      "height_cm": 5.911764705882353,
+      "area_px": 1312.0,
+      "reason": "Size out of range: 1312px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.928270",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7941176470588236,
+      "height_cm": 10.0,
+      "area_px": 1085.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.928414",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 5.323529411764706,
+      "height_cm": 12.029411764705882,
+      "area_px": 3135.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.928630",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.323529411764707,
+      "area_px": 2493.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.961645",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 1.2647058823529411,
+      "height_cm": 5.470588235294118,
+      "area_px": 1089.5,
+      "reason": "Size out of range: 1090px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.961818",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.8529411764705883,
+      "height_cm": 9.911764705882353,
+      "area_px": 2666.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.961948",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7647058823529413,
+      "height_cm": 10.0,
+      "area_px": 1072.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.962134",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.26470588235294,
+      "area_px": 2483.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.993747",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1858.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.993937",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.0,
+      "height_cm": 12.0,
+      "area_px": 1651.5,
+      "reason": "Size out of range: 1652px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:17.994134",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.235294117647058,
+      "area_px": 2479.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.040529",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.8529411764705883,
+      "height_cm": 9.882352941176471,
+      "area_px": 2677.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.040671",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7647058823529413,
+      "height_cm": 10.0,
+      "area_px": 1084.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.040826",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.176470588235293,
+      "area_px": 2210.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.075478",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7647058823529413,
+      "height_cm": 10.0,
+      "area_px": 1088.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.075712",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 5.323529411764706,
+      "height_cm": 12.029411764705882,
+      "area_px": 3156.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.075870",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.147058823529411,
+      "area_px": 2230.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.103077",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.0,
+      "height_cm": 12.0,
+      "area_px": 1633.5,
+      "reason": "Size out of range: 1634px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.103247",
+      "shape": "Triangle",
+      "status": "PASS",
+      "width_cm": 5.323529411764706,
+      "height_cm": 12.029411764705882,
+      "area_px": 3017.0,
+      "reason": ""
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.103400",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.147058823529411,
+      "area_px": 2453.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.132357",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7647058823529413,
+      "height_cm": 10.0,
+      "area_px": 1078.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.132537",
+      "shape": "Triangle",
+      "status": "PASS",
+      "width_cm": 5.323529411764706,
+      "height_cm": 12.0,
+      "area_px": 3020.5,
+      "reason": ""
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.132692",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 8.147058823529411,
+      "area_px": 2439.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.169946",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.8529411764705883,
+      "height_cm": 9.911764705882353,
+      "area_px": 2653.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.170141",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7647058823529413,
+      "height_cm": 10.0,
+      "area_px": 1078.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.170340",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 5.029411764705882,
+      "area_px": 1845.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.200114",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.8529411764705883,
+      "height_cm": 9.911764705882353,
+      "area_px": 2664.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.200283",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7647058823529413,
+      "height_cm": 10.0,
+      "area_px": 1079.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.200447",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 5.029411764705882,
+      "area_px": 1844.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.231317",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.8529411764705883,
+      "height_cm": 9.911764705882353,
+      "area_px": 2657.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.231621",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.029411764705882,
+      "height_cm": 12.029411764705882,
+      "area_px": 1632.5,
+      "reason": "Size out of range: 1632px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.231779",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 5.0,
+      "area_px": 1845.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.266577",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.8529411764705883,
+      "height_cm": 9.911764705882353,
+      "area_px": 2655.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.266755",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.029411764705882,
+      "height_cm": 12.029411764705882,
+      "area_px": 1632.5,
+      "reason": "Size out of range: 1632px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.266889",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 4.852941176470588,
+      "area_px": 1840.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.297566",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.8529411764705883,
+      "height_cm": 9.911764705882353,
+      "area_px": 2834.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.297762",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.029411764705882,
+      "height_cm": 12.029411764705882,
+      "area_px": 1632.5,
+      "reason": "Size out of range: 1632px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.297901",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 4.823529411764706,
+      "area_px": 1835.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.325376",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4117647058823533,
+      "height_cm": 8.117647058823529,
+      "area_px": 1862.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.325678",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7647058823529413,
+      "height_cm": 10.0,
+      "area_px": 1068.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.325889",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 4.705882352941177,
+      "area_px": 1834.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.360813",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4705882352941178,
+      "height_cm": 8.147058823529411,
+      "area_px": 1855.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.360992",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 1.7647058823529413,
+      "height_cm": 10.0,
+      "area_px": 1067.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.361134",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 4.705882352941177,
+      "area_px": 1829.0,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.391005",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.4705882352941178,
+      "height_cm": 8.147058823529411,
+      "area_px": 1839.5,
+      "reason": "Unknown shape type"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.391192",
+      "shape": "Rectangle",
+      "status": "FAIL",
+      "width_cm": 7.0,
+      "height_cm": 12.0,
+      "area_px": 1628.5,
+      "reason": "Size out of range: 1628px"
+    },
+    {
+      "timestamp": "2025-10-08T13:59:18.391330",
+      "shape": "Irregular",
+      "status": "FAIL",
+      "width_cm": 3.735294117647059,
+      "height_cm": 4.5,
+      "area_px": 1821.5,
+      "reason": "Unknown shape type"
+    }
+  ]
+}
