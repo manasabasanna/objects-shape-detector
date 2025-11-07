@@ -44,7 +44,13 @@ It can be used in:
    pip install -r requirements.txt
 python object_shape_detector.py
 ## 🚀 Run Online
-Try it on [Google Colab](https://colab.research.google.com/drive/1Jn5RA4zq5Rcf8QUqcjTQfduNAy2vlUTB#scrollTo=NqNENE5Rjhmi&line=5&uniqifier=1)
+
+You can try this project directly on Google Colab by clicking the button below 👇
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jn5RA4zg5RcF8QUqcJtOfduN4y2vUlTB?usp=sharing)
+
+> ⚡ Note: This will automatically clone the repository, install dependencies, and run the object shape detection script.
+
 
 
 
