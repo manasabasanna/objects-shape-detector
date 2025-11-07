@@ -43,6 +43,10 @@ It can be used in:
    ``
    pip install -r requirements.txt
 python object_shape_detector.py
+## 🚀 Run Online
+Try it on [Google Colab](https://colab.research.google.com/drive/1Jn5RA4zq5Rcf8QUqcjTQfduNAy2vlUTB#scrollTo=NqNENE5Rjhmi&line=5&uniqifier=1)
+
+
 
 
 
